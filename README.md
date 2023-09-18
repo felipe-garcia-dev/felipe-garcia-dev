@@ -1,6 +1,6 @@
-Oi, me chamo Felipe, tenho 36 anos e estou mudando de carreira, graças a uma incrível oportunidade que recebi: uma bolsa para o curso de backend da Cubos Academy em parceria com o iFood. Esta grande mudança está tomando forma.👋
-
 ### Sobre mim
+
+Oi, me chamo Felipe, tenho 36 anos e estou mudando de carreira, graças a uma incrível oportunidade que recebi: uma bolsa para o curso de backend da Cubos Academy em parceria com o iFood. Esta grande mudança está tomando forma.👋
 
 💻 Eu sou um desenvolvedor [Back-End]. 
 
