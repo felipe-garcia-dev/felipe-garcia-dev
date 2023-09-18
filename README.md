@@ -9,7 +9,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End] | Faculdade | Escola | Curso]
+🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End] | Engenharia de Software]
 <!--
 👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
 -->
