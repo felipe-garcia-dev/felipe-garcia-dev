@@ -9,17 +9,20 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End] | Engenharia de Software]
+🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End e Engenharia de Software.
 <!--
 👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
 -->
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre temas que envolvam tecnologia.
 
 ✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
 
+<!--
 📚 Lendo: [Livro que está lendo atualmente]
+-->
 
 ### Eu já trabalhei com... 🔧
+Freelancer de Garçom, mas estou em mudança de carreira. 🎓
 
 **Tecnologias e Ferramentas**
 
